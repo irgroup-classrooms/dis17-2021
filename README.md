@@ -8,6 +8,10 @@ The following slide sets and videos are available:
 
 * **01 Introduction** [[pdf]](https://github.com/irgroup-classrooms/dis17-2021/blob/main/slides/DIS17-01-introduction.pdf)
 
+## Assignments and Teams
+
+Please register your teams: https://forms.gle/fXXdQG8qr7YVXWXLA 
+
 ## Syllabus
 
 The following syllabus is an overview on the topics I plan to cover in this semester. Stay tuned!
