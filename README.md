@@ -4,9 +4,9 @@
 
 All lectures will be hosted on Zoom: https://th-koeln.zoom.us/j/86500487419. The password for Zoom is the ZIP code of TH Köln @ Claudiusstraße 1. Lectures will be recorded and archived for later referal.
 
-The following slide sets and videos are available:
+The following slide sets and videos are available. The password for the videos is the same as for the Zoom room.
 
-* **01 Introduction** [[pdf]](https://github.com/irgroup-classrooms/dis17-2021/blob/main/slides/DIS17-01-introduction.pdf)
+* **01 Introduction** [[pdf]](slides/DIS17-01-introduction.pdf) [[video]](https://th-koeln.sciebo.de/s/zkxwDLmIf3RnFsL)
 
 ## Assignments and Teams
 
