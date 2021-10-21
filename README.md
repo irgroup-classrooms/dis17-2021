@@ -7,6 +7,7 @@ All lectures will be hosted on Zoom: https://th-koeln.zoom.us/j/86500487419. The
 The following slide sets and videos are available. The password for the videos is the same as for the Zoom room.
 
 * **01 Introduction** [[pdf]](slides/DIS17-01-introduction.pdf) [[video]](https://th-koeln.sciebo.de/s/zkxwDLmIf3RnFsL)
+* **02 IR in a Nutshell and TREC Evaluations** [[pdf]](slides/DIS17-02-IR-Nutshell.pdf)
 
 ## Assignments and Teams
 
