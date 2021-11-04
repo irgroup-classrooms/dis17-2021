@@ -14,6 +14,18 @@ The following slide sets and videos are available. The password for the videos i
 
 Please register your teams: https://forms.gle/fXXdQG8qr7YVXWXLA 
 
+### Assignment I - Run the Solr tutorial and index CORD-19
+
+1. Please work on the official Solr tutorial and go through all the three exercises. You can skip the parts related to sharding. 
+2. In addition to exercise 3 index the CORD-19 data set from from 2020-07-16 that will be used in the later assignments again. 
+3. Make a screenshot of the results of a simple query from the official TREC-COVID topic set. We assigned one topic [number randomly to each student](topic-student.md). 
+
+Links: 
+- Solr tutorial: https://solr.apache.org/guide/8_10/solr-tutorial.html
+- CORD-19 from 2020-07-16: https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases/cord-19_2020-07-16.tar.gz
+- TREC-COVID topic set: https://ir.nist.gov/covidSubmit/data/topics-rnd5.xml
+
+
 ## Syllabus
 
 The following syllabus is an overview on the topics I plan to cover in this semester. Stay tuned!
