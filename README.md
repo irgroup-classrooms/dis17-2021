@@ -16,9 +16,9 @@ Please register your teams: https://forms.gle/fXXdQG8qr7YVXWXLA
 
 ### Assignment I - Run the Solr tutorial and index CORD-19
 
-1. Please work on the official Solr tutorial and go through all the three exercises. You can skip the parts related to sharding. 
+1. Please work on the official Solr tutorial and go through all the three exercises. In [Exercise 1 - Launch Solr in SolrCloud Mode](https://solr.apache.org/guide/8_10/solr-tutorial.html#launch-solr-in-solrcloud-mode), you will set up your Solr cloud and get it running. Some important concepts and features of Solr like **nodes**, **shards**, and **replicas** are included in this setup guide. Understanding all of these features may be a little bit overwhelming for newcomers and **they will not be picked up during the rest of the tutorial**. Feel free to simply follow the setup guide without diving deep into these topics (copy & paste the commands). For those who are interested, the [Solr Glossary](https://solr.apache.org/guide/8_10/solr-glossary.html) provides some more information. In our tutorial, we will focus on the later sections - indexing and searching data.
 2. In addition to exercise 3 index the CORD-19 data set from from 2020-07-16 that will be used in the later assignments again. 
-3. Make a screenshot of the results of a simple query from the official TREC-COVID topic set. We assigned one topic [number randomly to each student](topic-student.md). 
+3. Make a screenshot of the results of a simple query from the official TREC-COVID topic set. We assigned one [topic number randomly to each student](topic-student.md). 
 
 Links: 
 - Solr tutorial: https://solr.apache.org/guide/8_10/solr-tutorial.html
