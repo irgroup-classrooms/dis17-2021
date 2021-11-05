@@ -29,6 +29,7 @@ Please register your teams: https://forms.gle/fXXdQG8qr7YVXWXLA
 Links: 
 - Solr tutorial: https://solr.apache.org/guide/8_10/solr-tutorial.html
 - CORD-19 from 2020-07-16: https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases/cord-19_2020-07-16.tar.gz
+- TREC-COVID: https://ir.nist.gov/covidSubmit/
 - TREC-COVID topic set: https://ir.nist.gov/covidSubmit/data/topics-rnd5.xml
 - Create a "catchall" Copy Field: https://solr.apache.org/guide/8_10/solr-tutorial.html#create-a-catchall-copy-field
 
