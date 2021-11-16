@@ -9,9 +9,6 @@ services:
      - "8981:8983"
     environment:
       - ZK_HOST=zoo1:2181,zoo2:2181
-    command:
-      - solr-precreate
-      - gettingstarted
     networks:
       - solr
     depends_on:
@@ -27,9 +24,6 @@ services:
      - "8982:8983"
     environment:
       - ZK_HOST=zoo1:2181,zoo2:2181
-    command:
-      - solr-precreate
-      - gettingstarted
     networks:
       - solr
     depends_on:
