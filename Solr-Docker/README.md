@@ -49,4 +49,7 @@ If you made it successfully to this point your system should be up and running. 
 Per default (configured in the docker-compose.yml) your two nodes are running on **port 8982 and 8981**.  
 If you want to run commands on your solr container you can either use the [CLI button](Docker_Container_CLI.png) on your specific container or use another CLI.  
 To use your own CLI to connect to the container run the following command:  
-`$ docker exec -it solr1 /bin/bash`
+`$ docker exec -it solr1 /bin/bash`  
+**Important:** Once you first launch the Docker containers a `data` folder will be created in the same folder where you've created the docker-compose.yml before.  
+This folder is your transfer folder between your local machine and the containers. You will have to paste any files that you want to access within the container here.  
+On the container itself (Connected via CLI) you will find the same folder under `/tmp/data`
