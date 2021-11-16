@@ -25,8 +25,8 @@ Please register your teams: https://forms.gle/fXXdQG8qr7YVXWXLA
     ```
     bin/post -c <collection-name> path/to/metadata.csv -params "skip=<field-to-be-skipped>,<field-to-be-skipped>&header=true"
     ```
-3. Make a screenshot of the results of a simple query from the official TREC-COVID topic set. We assigned one [topic number randomly to each student](topic-student.md). 
-4. Upload the screenshot to this Sciebo folder: https://th-koeln.sciebo.de/s/FHerELroqNlwDPC
+3. Make a screenshot of the results of a simple query from the official TREC-COVID topic set. We assigned one [topic number randomly to each student](topic-student.md). Name the file accordingly: `DIS17-2021-assignment1-LASTNAME-FIRSTNAME`.
+4. Upload the screenshot until 2021-11-19 to this Sciebo folder: https://th-koeln.sciebo.de/s/FHerELroqNlwDPC
 
 Links: 
 - Solr tutorial: https://solr.apache.org/guide/8_10/solr-tutorial.html
