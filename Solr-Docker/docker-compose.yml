@@ -29,6 +29,8 @@ services:
     depends_on:
       - zoo1
       - zoo2
+    volumes:
+      - ./data:/tmp/data
 
   zoo1:
     image: zookeeper:latest
