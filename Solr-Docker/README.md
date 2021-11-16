@@ -10,7 +10,7 @@ Docker has some system requirements. If your system does not meet the requiremen
 If you also need help on that just ping me and ill either add a tutorial on how to deploy a virtual machine or just explain it to you in person.
 ## 2.	Once Docker is installed and set up 
 you should be able to check its version in any CLI (like CMD or the GIT Bash) with the following command:  
-`$ docker –version`  
+`$ docker --version`  
 Its output should look something like this:  
 `Docker version 20.10.8, build 3967b7d`
 ## 3.	Docker will install a tool named [Docker-Compose](https://docs.docker.com/compose/).  
