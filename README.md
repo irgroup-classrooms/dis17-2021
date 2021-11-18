@@ -35,7 +35,8 @@ Links:
 - TREC-COVID: https://ir.nist.gov/covidSubmit/
 - TREC-COVID topic set: https://ir.nist.gov/covidSubmit/data/topics-rnd5.xml
 - Create a "catchall" Copy Field: https://solr.apache.org/guide/8_10/solr-tutorial.html#create-a-catchall-copy-field
-
+- `trec_eval` sources: https://github.com/usnistgov/trec_eval
+- `trec_eval` [pre-compiled for Windows](download/trec_eval_win32.zip)
 
 
 
