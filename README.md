@@ -11,6 +11,7 @@ The following slide sets and videos are available. The password for the videos i
 * **03 Solr** [[pdf]](slides/DIS17-03-Solr.pdf) [[video]](https://th-koeln.sciebo.de/s/LCdBeIX4P2uPicY)
 * **04 Indexing** [[pdf]](slides/DIS17-04-Indexing.pdf) [[video]](https://th-koeln.sciebo.de/s/D8DZUZHCmVUMb7E)
 * **05 Solr-Hands-on**  [[script]](https://github.com/irgroup-classrooms/dis17-2021/blob/main/src/simple-run.py) [[video]](https://th-koeln.sciebo.de/s/zl6thuzMSKB9cg2)
+* **06 Queries** [[pdf]](slides/DIS17-06-Queries.pdf)
 
 ## Assignments and Teams
 
