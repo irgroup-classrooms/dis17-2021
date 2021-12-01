@@ -15,7 +15,8 @@ The following slide sets and videos are available. The password for the videos i
 
 ## Assignments and Teams
 
-Please register your teams: https://forms.gle/fXXdQG8qr7YVXWXLA 
+Please register your teams: https://forms.gle/fXXdQG8qr7YVXWXLA  
+> [Teams and members](https://github.com/irgroup-classrooms/dis17-2021/blob/main/teams.md)
 
 ### Assignment I - Run the Solr tutorial and index CORD-19
 
