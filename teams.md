@@ -8,7 +8,7 @@
 | Shit happens | Cagferoglu, Okwus, Pelzers, Przibylla |
 | BugBustersReloaded | Prantz, Hilbrecht, Bilko, Vetter |
 | Gehacktes Misch |	Richter, Colic, Novak, Gelgurt |
-| Die Drei von der Tankstelle |	Depois, Mihretab, Poledniok, Ismail |
+| Die Drei von der Tankstelle |	Depois, Mihretab, Poledniok, Arda |
 | Information_Revival_Group | Courtpozanis, Uhler, Landsiedel, Krause |
 | DuckDuckBros | Fresi, Hardtke, Erdogan, Loose |
 | The Internet Explorers | Szyprons, Ullrich, Schulz, Kim |
