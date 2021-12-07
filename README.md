@@ -46,7 +46,7 @@ This is the __first group assignment__. Write a two page concept paper (approx. 
   - A proprietary approach to improve retrieval performance
   - Make up your mind and find something on your own!
 
-Upload the concept papers as PDF files until 2021-12-09 to this Sciebo folder: https://th-koeln.sciebo.de/s/FHerELroqNlwDPC - Name the file accordingly: `DIS17-2021-assignment2-GROUPNAME`.
+Upload the concept papers as PDF files until 2021-12-10 to this Sciebo folder: https://th-koeln.sciebo.de/s/FHerELroqNlwDPC - Name the file accordingly: `DIS17-2021-assignment2-GROUPNAME`.
 
 ### Links: 
 - Solr tutorial: https://solr.apache.org/guide/8_10/solr-tutorial.html
