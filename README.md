@@ -59,11 +59,3 @@ Upload the concept papers as PDF files until 2021-12-10 to this Sciebo folder: h
 - `trec_eval` sources: https://github.com/usnistgov/trec_eval
 - `trec_eval` [pre-compiled for Windows](download/trec_eval_win32.zip)
 
-
-
-
-## Syllabus
-
-The following syllabus is an overview on the topics I plan to cover in this semester. Stay tuned!
-
-![syllabus](syllabus.png)
