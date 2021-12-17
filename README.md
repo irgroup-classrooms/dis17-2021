@@ -14,6 +14,7 @@ The following slide sets and videos are available. The password for the videos i
 * **06 Queries** [[pdf]](slides/DIS17-06-Queries.pdf) [[video]](https://th-koeln.sciebo.de/s/dZ5HXn7LmCvXav1)
 * **07 Ranking** [[pdf]](slides/DIS17-07-Ranking.pdf) [[video]](https://th-koeln.sciebo.de/s/NvDsWWKTeYeAQDP)
 * **08 Mini-TREC I** [[video]](https://th-koeln.sciebo.de/s/qAegnQcJFSPncjr)
+* **09 Mini-TREC II** [[video]](https://th-koeln.sciebo.de/s/XX41g12SN9hoJYd)
 
 ## Assignments and Teams
 
