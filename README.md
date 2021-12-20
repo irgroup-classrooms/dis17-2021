@@ -30,7 +30,8 @@ The following slide sets and videos are available. The password for the videos i
     bin/post -c <collection-name> path/to/metadata.csv -params "skip=<field-to-be-skipped>,<field-to-be-skipped>&header=true"
     ```
 3. Make a screenshot of the results of a simple query from the official TREC-COVID topic set. We assigned one [topic number randomly to each student](topic-student.md). Name the file accordingly: `DIS17-2021-assignment1-LASTNAME-FIRSTNAME`.
-4. Upload the screenshot until 2021-11-19 to this Sciebo folder: https://th-koeln.sciebo.de/s/FHerELroqNlwDPC
+
+Upload the screenshot until 2021-11-19 to this Sciebo folder: https://th-koeln.sciebo.de/s/FHerELroqNlwDPC
 
 ### Assignment II - Concept Paper (10 points)
 
@@ -49,6 +50,40 @@ This is the __first group assignment__. Write a two page concept paper (approx. 
   - Make up your mind and find something on your own!
 
 Upload the concept papers as PDF files until 2021-12-10 to this Sciebo folder: https://th-koeln.sciebo.de/s/FHerELroqNlwDPC - Name the file accordingly: `DIS17-2021-assignment2-GROUPNAME`.
+
+### Assignment III - Start your Engines (30 points)
+
+Based on your project plan from assignment II your team has to build and evaluate a search engine on finding relevant documents on COVID-19 and to submit the results (run files). 
+
+- Use the TREC-COVID test collection as our common document, topic and qrel set. 
+- We will evalute your run files using trec_eval, so please make sure to test these files before submitting them. We will not fix parsing errors. 
+- Choose some "speaking" names for your runs, like `BM25-manual-queries`.
+- Prepare a short 2-page overview paper including a short description of 
+  1. Your original overall idea to test in the Mini-TREC campaign
+  2. The retrieval methods used and the technical implementation
+  3. Your evaluation and outcomes
+  4. Next steps and ideas
+- We will use these descriptions as input for our World Café on 2022-01-14. 
+
+Upload your __two most successful runs__ in the correct TREC run files format and the 2-page paper until 2022-01-13 16:00 to this Sciebo folder: https://th-koeln.sciebo.de/s/FHerELroqNlwDPC - Name the files accordingly: `DIS17-2021-assignment3-GROUPNAME-RUNNAME` and `DIS17-2021-assignment3-GROUPNAME-overview`. Change GROUPNAME and RUNNAME as it fits.
+
+### Assignment IV - Write it down (40 points)
+
+Based on the previous assignments we would like you to compile a final report including the following topics:
+
+  1. Your original overall idea to test in the Mini-TREC campaign
+  2. The retrieval methods used and the technical implementation
+  3. Your evaluation and outcomes
+  4. Next steps and ideas
+
+The paper should respect the following requirements:
+
+- Clear style of writing and textual presentation (in German or English). This is your (maybe) first scientific report. Get some inspiration on how to write these reports by looking at papers from [TREC](https://trec.nist.gov/proceedings/proceedings.html) or [CLEF](http://ceur-ws.org/Vol-2936/). 
+- Cite relevant literature about methods/techniques.
+- Use the [CEUR-WS Proceedings template](http://ceur-ws.org/Vol-XXX/CEURART.zip) in 1-column style. An Overleaf page for LaTeX users is available at https://www.overleaf.com/read/gwhxnqcghhdt.
+- __All team members have to contribute__ to the report. Include an overview who contributed what part of the report. 
+
+Upload your overview paper in PDF until 2022-02-28 to this Sciebo folder: https://th-koeln.sciebo.de/s/FHerELroqNlwDPC - Name the files accordingly: `DIS17-2021-assignment4-GROUPNAME-report`.
 
 ### Links: 
 - Solr tutorial: https://solr.apache.org/guide/8_10/solr-tutorial.html
