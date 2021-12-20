@@ -55,9 +55,10 @@ Upload the concept papers as PDF files until 2021-12-10 to this Sciebo folder: h
 
 Based on your project plan from assignment II your team has to build and evaluate a search engine on finding relevant documents on COVID-19 and to submit the results (run files). 
 
-- Use the TREC-COVID test collection as our common document, topic and qrel set. 
+- Use the TREC-COVID Complete test collection as our common document, topic and qrel set: https://ir.nist.gov/covidSubmit/data.html. 
 - We will evalute your run files using trec_eval, so please make sure to test these files before submitting them. We will not fix parsing errors. 
 - Choose some "speaking" names for your runs, like `BM25-manual-queries`.
+- Your run files may contain up to 1000 documents per topic, but fewer documents are fine.
 - Prepare a short 2-page overview paper including a short description of 
   1. Your original overall idea to test in the Mini-TREC campaign
   2. The retrieval methods used and the technical implementation
@@ -65,6 +66,18 @@ Based on your project plan from assignment II your team has to build and evaluat
   4. Next steps and ideas
 - We will use these descriptions as input for our World Café on 2022-01-14. 
 
+Each run must be contained in a single text file. Each line in the file must be in the form
+```
+         topicid Q0 docid rank score run-tag
+```
+where 
+  - `topicid` is the topic number (1..50)
+  - `Q0` is the literal 'Q0' (currently unused, but trec_eval expects this column to be present)
+  - `docid` is the cord_uid of the document retrieved in this position. It must be a valid cord_id in the July 16 release of CORD-19. If it has already been judged for this topic, it will be removed.
+  - `rank` is the rank position of this document in the list
+  - `score` is the similarity score computed by the system for this document. When your run is processed (to create judgment sets and to score it using trec_eval), the run will be sorted by decreasing score and the assigned ranks will be ignored. In particular, trec_eval will sort documents with tied scores in an arbitrary order. If you want the precise ranking you submit to be used, that ranking must be reflected in the assigned scores, not the ranks.
+  - `run-tag`	is a name assigned to the run. Tags must be unique across both your own runs and all other participants' runs, so you may have to choose a new tag if the one you used is already taken. 
+  
 Upload your __two most successful runs__ in the correct TREC run files format and the 2-page paper until 2022-01-13 16:00 to this Sciebo folder: https://th-koeln.sciebo.de/s/FHerELroqNlwDPC - Name the files accordingly: `DIS17-2021-assignment3-GROUPNAME-RUNNAME` and `DIS17-2021-assignment3-GROUPNAME-overview`. Change GROUPNAME and RUNNAME as it fits.
 
 ### Assignment IV - Write it down (40 points)
