@@ -15,6 +15,7 @@ The following slide sets and videos are available. The password for the videos i
 * **07 Ranking** [[pdf]](slides/DIS17-07-Ranking.pdf) [[video]](https://th-koeln.sciebo.de/s/NvDsWWKTeYeAQDP)
 * **08 Mini-TREC I** [[video]](https://th-koeln.sciebo.de/s/qAegnQcJFSPncjr)
 * **09 Mini-TREC II** [[video]](https://th-koeln.sciebo.de/s/XX41g12SN9hoJYd)
+* **10 World Café** [[Indexing I]](https://docs.google.com/document/d/1-iVhHXrXKlVBO61EOzLC617JPOhsFDBC8E_j1BLRz0Q/edit?usp=sharing) [[Indexing II]](https://docs.google.com/document/d/1b66n1VdY7UDPqCUaIwqftDDQrjE0ViJmxb_aytCiDUs/edit?usp=sharing) [[Ranking I]](https://docs.google.com/document/d/1oHHcT499xeog4Lm0x2jbDjOchpU08oop-mk-QcgMvl0/edit?usp=sharing) [[Ranking II]](https://docs.google.com/document/d/1KSpD2pMuLohX18vzpi24Tq6lZfxAuhC6a10m1dSn8d0/edit?usp=sharing) [[Querying I]](https://docs.google.com/document/d/1KSpD2pMuLohX18vzpi24Tq6lZfxAuhC6a10m1dSn8d0/edit?usp=sharing) [[Querying II]](https://docs.google.com/document/d/1FdhdX3q3WBYbeAZh0RidFwAg0yZaTS7VpLrIkDsqxhI/edit?usp=sharing)
 
 ## Assignments and Teams
 
