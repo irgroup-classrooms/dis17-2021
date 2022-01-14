@@ -187,3 +187,63 @@
 - This concept paper does not mention the CORD19 dataset or TREC Covid even once. The text is very arbitrary and the outlined problems do not address any of the obstacles that might occur when using the CORD19 datasets. Did the group look a the data?
 - Some formulations are hard to understand.
 - Missing details wrt. the evaluations. When do you claim success? Do you want to use a baseline? How do you measure improvements?
+
+
+## Assignment III
+
+As part of the Assignment III, every group submitted valid run files and a corresponding paper with at least two pages. All group members, who also took part in the World Café on 2022-01-14, get 30 points. Those who did not take part in the World Café and the discussions get 5 points less.
+
+
+| Student ID | A3 | 
+| --- | --- | 
+| 11093999 | 30 | 
+| 11094995 | 30 | 
+| 11095449 | 25 | 
+| 11096202 | 25 | 
+| 11110703 | 25 | 
+| 11118344 | 30 | 
+| 11120099 | 25 | 
+| 11121154 | 25 | 
+| 11128330 | 30 | 
+| 11133327 | 30 | 
+| 11134199 | 30 | 
+| 11134202 | 30 | 
+| 11134303 | 30 | 
+| 11134718 | 30 | 
+| 11135533 | 30 | 
+| 11136112 | 30 | 
+| 11136561 | 30 | 
+| 11136865 | 30 | 
+| 11136973 | 30 | 
+| 11139754 | 30 | 
+| 11139919 | 25 | 
+| 11139926 | 30 | 
+| 11140076 | 25 | 
+| 11140334 | 25 | 
+| 11140537 | 30 | 
+| 11140538 | 30 | 
+| 11140540 | 30 | 
+| 11140576 | 30 | 
+| 11140578 | 30 | 
+| 11140591 | 30 | 
+| 11140612 | 30 | 
+| 11140624 | 30 | 
+| 11140625 | 25 | 
+| 11140903 | 30 | 
+| 11140904 | 25 | 
+| 11140931 | 30 | 
+| 11140939 | 30 | 
+| 11141179 | 25 | 
+| 11141352 | 30 | 
+| 11141379 | 30 | 
+| 11141419 | 30 | 
+| 11141762 | 30 | 
+| 11141763 | 25 |
+| 11142356 | 30 | 
+| 11142385 | 30 |
+| 11142933 | 30 | 
+| 11143182 | 25 | 
+| 11143471 | 30 | 
+| 11143680 | 30 |   
+| 11143789 | 30 | 
+| 11152050 | 30 | 
